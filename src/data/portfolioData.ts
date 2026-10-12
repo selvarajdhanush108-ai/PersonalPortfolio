@@ -195,10 +195,10 @@ export const PROJECTS: Project[] = [
 export const EXPERIENCES: ExperienceItem[] = [
   {
     id: 'zetheta-algorithms',
-    role: 'Software Engineering Extern',
-    company: 'Zetheta Algorithms Pvt. Ltd.',
-    period: 'August 2026',
-    type: 'Externship',
+    role: 'Software Engineering Intern',
+    company: 'Webplatf',
+    period: 'Feb 2026 - May 2026',
+    type: 'Internship',
     description:
       'Participated as a Software Engineering Extern, observing and engaging in core software engineering workflows, application architecture reviews, and backend system best practices.',
     highlights: [
