@@ -141,7 +141,7 @@ export const PROJECTS: Project[] = [
       'HTTP 404, 400, and 500 error resilience verification',
     ],
     visualType: 'bus-tracking',
-    githubUrl: 'https://github.com/selvarajdhanush108-ai',
+    githubUrl: 'https://github.com/selvarajdhanush108-ai/BusTrackingSystem',
   },
   {
     id: 'faculty-contact-management-system',
