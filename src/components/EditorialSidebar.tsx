@@ -34,7 +34,7 @@ export const EditorialSidebar: React.FC<EditorialSidebarProps> = ({
         <div className="flex items-center justify-between mb-3">
           <span className="inline-flex items-center gap-1.5 font-mono text-[11px] text-[var(--accent)] tracking-wider uppercase font-semibold">
             <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent)] animate-pulse" />
-            .NET Engineer
+            .NET Developer
           </span>
           <ThemeToggle />
         </div>
